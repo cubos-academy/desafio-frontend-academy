@@ -1,4 +1,11 @@
-# Desafio técnico de front-end
+<h1 align="center">
+    <img alt="Cubos Academy" width="170" src="cubos_academy.png" />
+    </br>
+    </br>
+    Desafio técnico web Cubos Academy
+    </br>
+    </br>
+</h1>
 
 ## Objetivo
 
