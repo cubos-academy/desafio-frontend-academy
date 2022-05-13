@@ -2,16 +2,16 @@
     <img alt="Cubos Academy" width="170" src="cubos_academy.png" />
     </br>
     </br>
-    Desafio técnico web Cubos Academy
+    Desafio Técnico Front-end Cubos Academy
     </br>
     </br>
 </h1>
 
-## Objetivo
+### Objetivo
 
 Implementar uma aplicação web responsiva que consuma a [API do The Movie DB](https://www.themoviedb.org/documentation/api), podendo um catálogo de filmes e seus detalhes.
 
-## Especificações
+### Especificações
 
 O app deverá ter as seguintes funcionalidades:
 - Permitir buscar filmes por nome ou gênero
