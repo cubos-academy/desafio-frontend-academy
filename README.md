@@ -31,12 +31,12 @@ As especificações a seguir **não são obrigatórias**, mas contam pontos **ex
 ### O aplicação web deverá reproduzir os seguintes designs:
 
 > Listagem de filmes e filtros:
-> ![](assets/lista.png)
+> ![](lista.png)
 
 ---
 
 > Detalhes do filme:
-> ![](assets/detalhes.png)
+> ![](detalhes.png)
 
 A fonte usada nas telas é a **Roboto**.
 
