@@ -49,7 +49,7 @@ A fonte usada nas telas é a **Roboto**.
 
 ## Entrega
 
-O projeto do desafio técnico deve ser enviado no email **tecnologia.liderancas@cubos.academy** em um dos seguintes formatos:
+O projeto do desafio técnico deve ser enviado no email **processo.seletivo@cubos.academy** em um dos seguintes formatos:
 - Repositório hospedado (Github, Gitlab, Bitbucket ou similares)
 - Arquivo compactado
 
